@@ -1,0 +1,92 @@
+/* Navbar */
+#navbar {
+  background-color: #222831;
+}
+
+/* Carousel */
+.carousel-item {
+  padding: 10% 10% 15% 40%;
+  height: 500px;
+  background-color: #30475e;
+}
+
+.text-box {
+  background-color: #ececec;
+  border-radius: 12px;
+  padding: 15px;
+  z-index: 1;
+  position: relative;
+
+}
+
+.press-btn {
+  margin: 15px 0 0 0;
+}
+.box1 {
+  background-image: url(10136-Kassam-Corrected.jpg);
+}
+.box2 {
+  background-image: url(9345-214.003.jpg);
+  background-size:cover;
+}
+.beenfar {
+    background-image: url(9521-FireHall4-NW2.jpg);
+    background-size:cover;
+}
+/* Body */
+#body {
+  margin: 0% 25% 0 25%;
+  padding: 20px 30px 100px 30px;
+  background-color: #c1a57b;
+  border-radius: 0 0 12px 12px;
+  opacity:0.9;
+}
+
+/* footer */
+#footer {
+  text-align: center;
+}
+
+.icon {
+  margin: 20px;
+  color: #000;
+}
+
+/* Media query */
+@media (max-width: 1000px) {
+  .text-box {
+    text-align: center;
+  }
+
+  .carousel-item {
+    height: 800px;
+    padding: 7% 20% 10% 20%;
+  }
+
+
+.carousel-item {
+  padding: 10% 10% 0 10%;
+  height: 500px;
+}
+  .nav-link {
+    text-align: right;
+  }
+
+  #body {
+    margin: 0% 5% 7% 5%;
+  }
+}
+
+#backdrop {
+  background-image:url("0.png");
+}
+
+.boom {
+  background-color: #c1a57b;
+  display:inline-block;
+  border-radius: 12px;
+  margin: 12px;
+  padding:12px;
+  opacity:0.9;
+
+}
