@@ -59,14 +59,14 @@
   }
 
   .carousel-item {
-    height: 800px;
+    height: 1200px;
     padding: 7% 20% 10% 20%;
   }
 
 
 .carousel-item {
   padding: 10% 10% 0 10%;
-  height: 500px;
+  height: 800px;
 }
   .nav-link {
     text-align: right;
@@ -76,7 +76,7 @@
     margin: 0% 5% 7% 5%;
   }
   .small-man-child {
-    font-size: 1.3rem;
+    font-size: 1.7rem;
   }
 }
 
