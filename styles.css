@@ -53,7 +53,7 @@
 }
 
 /* Media query */
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
   .text-box {
     text-align: center;
   }
