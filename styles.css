@@ -75,6 +75,9 @@
   #body {
     margin: 0% 5% 7% 5%;
   }
+  .small-man-child {
+    font-size: 1.3rem;
+  }
 }
 
 #backdrop {
