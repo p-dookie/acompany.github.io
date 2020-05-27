@@ -59,15 +59,9 @@
   }
 
   .carousel-item {
-    height: 1200px;
-    padding: 7% 20% 10% 20%;
+    height: 600px;
+    padding: 7% 10% 10% 10%;
   }
-
-
-.carousel-item {
-  padding: 10% 10% 0 10%;
-  height: 800px;
-}
   .nav-link {
     text-align: right;
   }
@@ -76,7 +70,27 @@
     margin: 0% 5% 7% 5%;
   }
   .small-man-child {
+    font-size: 2rem;
+  }
+  .logogo {
+    font-size: 3rem;
+  }
+  .carousel-title {
+    font-size: 3rem;
+  }
+  .nav-link {
+    font-size: 2rem;
+  }
+  .dropdown-item {
+    font-size: 2rem;
+  }
+  .sirenMan {
     font-size: 1.7rem;
+  }
+  .icon {
+    font-size: 1.3rem;
+    margin-left:50px;
+    margin-right: 50px;
   }
 }
 
@@ -91,5 +105,8 @@
   margin: 12px;
   padding:12px;
   opacity:0.9;
+
+}
+@media (min-width: 500px) {
 
 }
