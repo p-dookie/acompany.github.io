@@ -59,7 +59,7 @@
   }
 
   .carousel-item {
-    height: 725px;
+    height: 925px;
     padding: 10% 10% 10% 10%;
   }
   .nav-link {
@@ -116,10 +116,13 @@
 }
 @media (max-width: 650px) {
   .carousel-item {
-    height: 1000px;
+    height: 1100px;
   }
   .icon {
     margin-left:25px;
     margin-right: 25px;
+  }
+  .navbar-toggler-icon {
+    font-size: 3rem;
   }
 }
